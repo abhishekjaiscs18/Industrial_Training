@@ -2,9 +2,9 @@
 This is the official Repository to show my progress in my Industrial training on  the topic Object Oriented Programming in Java offered by Coursera. 
 
 ## Course content
- 1. Object Design: Constuctors, Instance Variables, Methods
-    #1.1. Classes and Objects
-    #1.2. Main Method in java
+###1. Object Design: Constuctors, Instance Variables, Methods
+####1.1. Classes and Objects
+####1.2. Main Method in java
     1.3. Defining Classes nad Creating Objects 
     1.4. Overloading Methods 
     1.5. Private Vs Public 
